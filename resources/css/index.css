@@ -2,11 +2,14 @@
     margin: 0;
     padding: 0;
     font-family: Helvetica;
+    box-sizing: content-box;
 }
 
 h1 {
     font-size: 100px;
     font-weight: bold;
     color: khaki;
-    align: center;
+    text-align: center;
+    background-image: url('../pattern.jpg');
+    margin: 50px 5px;
 }
