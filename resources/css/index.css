@@ -18,6 +18,17 @@ h2 {
     font-size: 32px;
     font-weight: bold;
     color:white;
-    background-color: mediumspringgreen;
     margin: 25px 0px;
+}
+
+.brushes {
+    background-color: mediumspringgreen;
+}
+
+.frames {
+    background-color: lightcoral;
+}
+
+.paint {
+    background-color: skyblue;
 }
